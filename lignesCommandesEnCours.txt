@@ -1,0 +1,7 @@
+CObor	COQUE	bordzoe	3
+COcha	COQUE	chanchloe	5
+MAcha	MANGA	chanchloe	2
+MAeye	MANGA	eymechloe	24
+MAlaw	MANGA	lawrpauli	10
+COch1	COQUE	chancelia	5
+
